@@ -3,10 +3,10 @@
 Subject: 2023W-T2 AML 2203 - Advanced Python AI and ML Tools 01
 Group Number: Group 3
 Group Members:
-    Javier Melo Diagama
-    Jenny Jitendra Joshi
-    Lucia Martinez Torres
-    Olivia Deguit
+    Javier Melo Diagama,
+    Jenny Jitendra Joshi,
+    Lucia Martinez Torres,
+    Olivia Deguit,
     Rochan Mehta
 
 Project Name: Spam or Ham Predictor
