@@ -15,3 +15,5 @@ Overview and Objective:
     We will be using classification techniques on a dataset of labelled email messages using Naive Bayes classifiers which is a popular statistical technique of e-mail filtering that uses bag-of-words features to identify email spam. This type of approach is commonly used in text classification. This could help in creating and evaluating the model's performance and accuracy of different types of email received by applying the Bayes' theorem based on the probability if the email is Spam or Ham. Matrixes and other graphical representation to show the model is targeted to be covered in the project as well.
     
 Dataset Filename: spam_dataset.csv
+
+Hello this is test
